@@ -1,7 +1,5 @@
-<h2>Flag Checked</h2>
 ![Flag Checked](Images/FlagChecked.png)
 
-<h2>Flag Unchecked</h2>
 ![Flag Unchecked](Images/FlagUnchecked.png)
 
 <h2>Favorite Video Game OST</h2>
